@@ -1,0 +1,13 @@
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\obj\Debug\Kartu Kamunitas.vbproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\obj\Debug\Kartu_Kamunitas.FormUtama.resources
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\obj\Debug\Kartu_Kamunitas.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\obj\Debug\Kartu Kamunitas.vbproj.GenerateResource.cache
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\obj\Debug\Kartu Kamunitas.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\obj\Debug\Kartu_Kamunitas.FormKartu.resources
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\bin\Debug\Kartu Kamunitas.exe.config
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\bin\Debug\Kartu Kamunitas.exe
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\bin\Debug\Kartu Kamunitas.pdb
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\bin\Debug\Kartu Kamunitas.xml
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\obj\Debug\Kartu Kamunitas.exe
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\obj\Debug\Kartu Kamunitas.xml
+C:\Users\Asus\Documents\Visual Studio 2026\Kartu Kamunitas\Kartu Kamunitas\obj\Debug\Kartu Kamunitas.pdb
